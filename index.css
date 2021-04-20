@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  color: black;
+  list-style: none;
+}
+
+@media screen and (min-width: 768px){
+	
+}
+
+@media screen and (min-width: 1024px){
+	
+}
