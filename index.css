@@ -12,6 +12,12 @@
   --red: rgb(243, 13, 13);
 }
 
+footer {
+  width: 94%;
+  margin: 0 auto;
+  margin-top: 200px;
+}
+
 .black-hover :hover {
   color: black;
 }
