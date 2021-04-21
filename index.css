@@ -7,6 +7,24 @@
   list-style: none;
 }
 
+:root {
+  --gray: #666;
+  --red: rgb(243, 13, 13);
+}
+
+.black-hover :hover {
+  color: black;
+}
+
+.blue-hover :hover {
+  color: blue;
+}
+
+.footer-color {
+  color: var(--gray);
+  text-decoration: none;
+}
+
 @media screen and (min-width: 768px){
 	
 }
